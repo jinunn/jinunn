@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jinunn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, 我是 @jinunn
+- 👀 是一名后端工程师
+- 🌱 正在积极武装自己的头脑
+- 💞️ 我的期望是进大厂
+- 📫 可以通过jinunn@163.com联系到我
 
 <!---
 jinunn/jinunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
